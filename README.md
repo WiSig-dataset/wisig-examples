@@ -4,8 +4,7 @@ Example applications of the [WiSig dataset](https://cores.ee.ucla.edu/downloads/
 
 ## Citation
 If you use this code in your research please cite
-> Paper
-
+> [1] S. Hanna, S. Karunartne, and D. Cabric, “WiSig: A Large-Scale WiFi Signal Dataset for Receiver and Channel Agnostic RF Fingerprinting,” arXiv:2112.15363 [eess], Dec. 2021, Accessed: Jan. 03, 2022. [Online]. Available: http://arxiv.org/abs/2112.15363
 
 
 ## Directory Description
